@@ -1,7 +1,5 @@
 ## Olá eu sou a Maria ✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-souza-1b2805295) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariae.ssouza19@gmail.com)
-
 Estudante de Ciência da Computação. 
 
 Atualmente, estou aprofundando meus conhecimentos em SQL e Desenvolvimento Front-end, além de cursar Desenvolvimento de Aplicações com Inteligência Artificial Generativa.
@@ -15,6 +13,7 @@ Estou sempre em busca de novos conhecimentos e oportunidades para colocar em pr�
 ![CSS](https://img.shields.io/badge/CSS-D81B60?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-AD1457?style=for-the-badge&logo=postgresql&logoColor=white)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=AD1457)](https://www.linkedin.com/in/maria-souza-1b2805295) [![Gmail](https://img.shields.io/badge/Gmail-F8BBD0?style=for-the-badge&logo=gmail&logoColor=AD1457)](mailto:mariae.ssouza19@gmail.com)
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNmtpejRsdXozOGtsa2toY3llZm0yOGJjZmw3aXdwOHN6dHF1MTA1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x5HlLDaLMZNVS/giphy.gif" width="400">
 </p>
