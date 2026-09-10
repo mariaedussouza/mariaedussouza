@@ -1,18 +1,12 @@
 ## Olá eu sou a Maria ✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-souza-1b2805295)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariae.ssouza19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-souza-1b2805295) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariae.ssouza19@gmail.com)
 
 Estudante de Ciência da Computação, apaixonada por tecnologia e desenvolvimento.
 
 Atualmente, estou aprofundando meus conhecimentos em SQL e Desenvolvimento Front-end, além de cursar Desenvolvimento de Aplicações com Inteligência Artificial Generativa.
 
-Estou sempre em busca de novos conhecimentos e oportunidades para colocar em prática o que venho aprendendo. 💻✨estudante de Ciência da Computação, apaixonada por tecnologia e desenvolvimento.
-
-Atualmente, estou aprofundando meus conhecimentos em SQL e Desenvolvimento Front-end, além de cursar Desenvolvimento de Aplicações com Inteligência Artificial Generativa.
-
-Estou sempre em busca de novos conhecimentos e oportunidades para colocar em prática o que venho aprendendo. 💻✨
+Estou sempre em busca de novos conhecimentos e oportunidades para colocar em prática o que venho aprendendo. 
 
 ## 💻 Tecnologias
 
