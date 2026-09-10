@@ -1,4 +1,4 @@
-## Olá, eu sou a Maria !  ✨
+## Olá, eu sou a Duda !  ✨
 
 Estudante de Ciência da Computação. 
 
