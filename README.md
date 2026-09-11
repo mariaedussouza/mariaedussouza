@@ -13,7 +13,7 @@ Estou sempre em busca de novos conhecimentos e oportunidades para colocar em prÃ
 ![CSS](https://img.shields.io/badge/CSS-D81B60?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-AD1457?style=for-the-badge&logo=postgresql&logoColor=white)
 ## Contatos ðŸ’—
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=AD1457)](https://www.linkedin.com/in/maria-souza-1b2805295) [![Gmail](https://img.shields.io/badge/Gmail-F8BBD0?style=for-the-badge&logo=gmail&logoColor=AD1457)](mailto:mariae.ssouza19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=AD1457)](https://www.linkedin.com/in/maria-souza-1b2805295) [![Gmail](https://img.shields.io/badge/Gmail-F48FB1?style=for-the-badge&logo=gmail&logoColor=AD1457)](mailto:mariae.ssouza19@gmail.com)
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNmtpejRsdXozOGtsa2toY3llZm0yOGJjZmw3aXdwOHN6dHF1MTA1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x5HlLDaLMZNVS/giphy.gif" width="350">
 </p>
