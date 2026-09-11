@@ -1,6 +1,8 @@
 <div align="center">
 
-![Maria Souza](https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=150&section=header&text=Maria%20Souza&fontSize=45&fontColor=7B1B4A)
+# 🌸 Maria Souza
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FCE4EC&height=180&section=header&text=Maria%20Souza&fontSize=50&fontColor=C2185B&animation=fadeIn&fontAlignY=40"/>
 
 </div>
 
