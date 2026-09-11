@@ -7,12 +7,11 @@ Estou sempre em busca de novos conhecimentos e oportunidades para colocar em prÃ
 
 ![Java](https://img.shields.io/badge/Java-F8BBD0?style=for-the-badge&logo=openjdk&logoColor=7B1B4A)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F48FB1?style=for-the-badge&logo=javascript&logoColor=5C1235)
+![TypeScript](https://img.shields.io/badge/TypeScript-F06292?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-EC407A?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E91E63?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-D81B60?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-AD1457?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-E91E63?style=for-the-badge&logo=typescript&logoColor=white)
-
 ## Contatos ðŸ’—
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=AD1457)](https://www.linkedin.com/in/maria-souza-1b2805295) [![Gmail](https://img.shields.io/badge/Gmail-F8BBD0?style=for-the-badge&logo=gmail&logoColor=AD1457)](mailto:mariae.ssouza19@gmail.com)
 <p align="center">
